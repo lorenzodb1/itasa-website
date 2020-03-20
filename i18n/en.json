@@ -1,0 +1,88 @@
+{
+  "CURRENT_LANGUAGE": "en",
+  "OTHER_LANGUAGE": "it",
+
+  "HEADER_TITLE": "UBC Italian Student Association",
+  "HEADER_AUTHOR": "AMS Italian Student Association",
+  "HEADER_DECRIPTION": "Representing Italian students, culture and story at the University of British Columbia in Vancouver.",
+
+  "MENU_ITEM_1": "About Us",
+  "MENU_ITEM_2": "Our Story",
+  "MENU_ITEM_3": "Our Executives",
+  "MENU_ITEM_4": "Our Alumni",
+  "MENU_ITEM_5": "Our Partners",
+  "MENU_ITEM_6": "Contact Us",
+
+  "WELCOME_MESSAGE": "Welcome to Italia.",
+
+  "MAILING_LIST_BUTTON": "Register to our mailing list",
+
+  "SECTION_1_TITLE": "About Us",
+  "SECTION_1_TEXT": "The UBC Italian Student Association is a student-run non-profit organization representing the Italian community at the University of British Columbia. Our mission is to promote Italian culture, history and traditions inside our community and to provide support to any student, regardless of the background.",
+  "SECTION_1_SUBSECTION_1_TITLE": "Network",
+  "SECTION_1_SUBSECTION_1_TEXT": "ITASA UBC is not just a student association, but a family. Ours is a network of students, institutions and companies you can refer to for your future.",
+  "SECTION_1_SUBSECTION_2_TITLE": "Academic",
+  "SECTION_1_SUBSECTION_2_TEXT": "We provide free support to students learning our language and culture, whether through the UBC Department of French, Hispanic and Italian Studies or on their own.",
+  "SECTION_1_SUBSECTION_3_TITLE": "Culture",
+  "SECTION_1_SUBSECTION_3_TEXT": "We host the most unique and exclusive events on campus to provide a complete Italian experience, one you'll hardly forget. For us, <em>La bella vita</em> is not just an expression, but a mindset.",
+
+  "SECTION_2_TITLE": "Our Story",
+  "SECTION_2_INTRO_QUOTE_TEXT": "\"It was in a train heading to Monaco in the summer of their second year at UBC when Lorenzo De Bernardini and Anna Lazzereschi first started talking about the possibility of starting a club for Italian students.\"",
+  "SECTION_2_INTRO_QUOTE_AUTHOR": "(Riya Talitha, The Ubyssey)",
+  "SECTION_2_INTRO_TEXT": "It was a long journey to get to who we are today. So, in order to celebrate our work, here's a summary of some of our most important milestones that make us proud of what we do.",
+  "SECTION_2_EVENT_1_DATE": "August 7, 2017",
+  "SECTION_2_EVENT_1_TEXT": "The day it all started. While waiting to get on destination, Lorenzo and Anna start discussing how hard is to find Italian students on campus and how little represented they are inside the community. This is how they realized UBC needed an Italian Student Association, one that could show everyone what being Italian feels like.",
+  "SECTION_2_EVENT_2_DATE": "November 13, 2017",
+  "SECTION_2_EVENT_2_TEXT": "The Constituency meeting. In front of a dish of <em>penne all'amatriciana</em>, seven Italian undergraduate students met in Marine Drive for the very first Annual General Meeting, where bylaws and roles were decided.",
+  "SECTION_2_EVENT_3_DATE": "February 26, 2018",
+  "SECTION_2_EVENT_3_TEXT": "The first approach to our community. After meeting the Cultural Director of <em>Il Centro</em> - Italian Cultural Centre, Mr. Giulio Recchioni, President Lorenzo and Vice-President - External Giacomo meet with the Cultural Attaché of the Consulate General of Italy in Vancouver, Mr. Gianluca Biscardi. This was the day a channel opened between us and the rest of the Italian community in the city.",
+  "SECTION_2_EVENT_4_DATE": "March 22, 2018",
+  "SECTION_2_EVENT_4_TEXT": "The coming-out. ITASA, in collaboration with the UBC Francophone Student Association, organizes the first event: a wine and cheese tasting with products imported from Italy and France, which went sold-out.",
+  "SECTION_2_EVENT_5_DATE": "November 16, 2018",
+  "SECTION_2_EVENT_5_TEXT": "The first, big step. ITASA forms its first sponsorship with <em>Gruppo Campari</em>, a major Italian company in the branded-beverage industry, to organize an event around the world-famous Aperol Spritz. It was also its first solo event, but nonetheless, it was a sold-out one.",
+
+  "SECTION_3_TITLE": "Our Executives",
+  "SECTION_3_SUBTITLE": "the ones that make it all happen",
+
+  "SECTION_4_TITLE": "Our Alumni",
+  "SECTION_4_SUBTITLE": "Italian pride around the world",
+  "SECTION_4_CLASS": "Class of",
+
+  "ROLE_PRESIDENT": "President",
+  "ROLE_FOUNDER": "Founder",
+  "ROLE_VICE_PRESIDENT": "Vice-President",
+  "ROLE_EXECUTIVE": "Executive",
+  "ROLE_FORMER": "Former",
+
+  "FIELD_FINANCIAL": "Financial",
+  "FIELD_OUTREACH": "Outreach",
+  "FIELD_INTERNAL": "Internal",
+  "FIELD_LOGISTICS": "Logistics",
+  "FIELD_MARKETING": "Marketing",
+
+  "SECTION_5_TITLE": "Our Partners",
+  "SECTION_5_SUBTITLE": "a community we can't thank enough",
+
+  "SECTION_6_TITLE": "Get in touch!",
+
+  "COPYRIGHT": "️© All Rights Reserved  /  By ITASA UBC with ❤️",
+
+  "REGISTER_TITLE": "Register to our mailing list",
+  "REGISTER_FIELD1": "First name",
+  "REGISTER_FIELD2": "Last name",
+  "REGISTER_FIELD3": "Email",
+  "REGISTER_FIELD3_SUB": "We'll never share your email with anyone else.",
+  "REGISTER_FIELD4": "Faculty",
+  "REGISTER_FIELD5": "Year",
+  "REGISTER_BUTTON": "Register",
+
+  "REGISTER_SUCCESS_TITLE": "Thank You!",
+  "REGISTER_SUCCESS_SUBTITLE": "We'll make sure you stay up to date with all the latest updates about our activities and events.",
+  "REGISTER_SUCCESS_CONTACT_US": "Want to unregister? <a href=\"mailto:itasaubc@gmail.com\">Contact us</a>.",
+  "REGISTER_SUCCESS_REDIRECT": "You'll be redirected to our homepage in 5 seconds.",
+
+  "REGISTER_ERROR_TITLE": "Something went wrong!",
+  "REGISTER_ERROR_SUBTITLE": "Try again in a few minutes.",
+  "REGISTER_ERROR_CONTACT_US": "Still facing issues?, <a href=\"mailto:itasaubc@gmail.com\">Contact us</a>.",
+  "REGISTER_ERROR_REDIRECT": "You'll be redirected to the previous page in 5 seconds."
+}

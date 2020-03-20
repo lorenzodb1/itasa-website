@@ -1,0 +1,24 @@
+<!--  fixed header  -->
+<header class="header_fixed" style="margin-top: 0;position: relative;">
+    <div class="wrapper clearfix">
+        <a href="/?l=<%=translation.CURRENT_LANGUAGE%>"><img src="/images/itasa-logo-white.png" alt="" title="" class="header_logo"/></a>
+        <a href="/register?l=<%=translation.OTHER_LANGUAGE%>"><img src="/images/icon-<%=translation.OTHER_LANGUAGE%>.png" alt="en_ca" class="header_lang_icon"></a>
+    </div>
+</header>
+<!--  end fixed header  -->
+
+<section class="form">
+    <div class="form-body">
+        <h1 class="display-3"><%=translation.REGISTER_ERROR_TITLE%></h1>
+        <p class="lead"><%=translation.REGISTER_ERROR_SUBTITLE%></p>
+        <hr>
+        <p><%-translation.REGISTER_ERROR_CONTACT_US%></p>
+        <p class="lead"><%=translation.REGISTER_ERROR_REDIRECT%></p>
+    </div>
+</section>
+
+<script>
+    setTimeout(function() {
+        window.location.replace('/');
+    }, 5000);
+</script>

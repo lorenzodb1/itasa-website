@@ -1,0 +1,42 @@
+<!--  fixed header  -->
+<header class="header_fixed" style="margin-top: 0;position: relative;">
+    <div class="wrapper clearfix">
+        <a href="/?l=<%=translation.CURRENT_LANGUAGE%>"><img src="/images/itasa-logo-white.png" alt="" title="" class="header_logo"/></a>
+        <a href="/register?l=<%=translation.OTHER_LANGUAGE%>"><img src="/images/icon-<%=translation.OTHER_LANGUAGE%>.png" alt="en_ca" class="header_lang_icon"></a>
+    </div>
+</header>
+<!--  end fixed header  -->
+
+<section class="form">
+    <div class="form-body">
+        <label class="title h3" for="mailingListRegistrationForm"><%=translation.REGISTER_TITLE%></label>
+        <form id="mailingListRegistrationForm" action="/register?l=<%=translation.CURRENT_LANGUAGE%>" target="_self" method="POST">
+            <div class="form-group">
+                <label class="h5" for="inputFirstName"><%=translation.REGISTER_FIELD1%></label>
+                <input type="text" class="form-control" id="inputFirstName" name="firstName" placeholder="Enter first name" required>
+            </div>
+            <div class="form-group">
+                <label class="h5" for="inputLastName"><%=translation.REGISTER_FIELD2%></label>
+                <input type="text" class="form-control" id="inputLastName" name="lastName" placeholder="Enter last name" required>
+            </div>
+            <div class="form-group">
+                <label class="h5" for="inputEmail"><%=translation.REGISTER_FIELD3%></label>
+                <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" name="email" placeholder="Enter email" required>
+                <small id="emailHelp" class="form-text text-muted"><%=translation.REGISTER_FIELD3_SUB%></small>
+            </div>
+            <div class="form-group">
+                <label class="h5" for="inputFaculty"><%=translation.REGISTER_FIELD4%></label>
+                <input type="text" class="form-control" id="inputFaculty" name="faculty" placeholder="Enter faculty" required>
+            </div>
+            <div class="form-group">
+                <label class="h5" for="inputYear"><%=translation.REGISTER_FIELD5%></label>
+                <input type="number" class="form-control" id="inputYear" name="year" placeholder="Enter year" required min="1" max="5">
+            </div>
+            <!--<div class="form-check left">
+                <input type="checkbox" class="form-check-input" id="registerCheckbox" style="margin-top: 0" required>
+                <label class="h6" for="registerCheckbox"> I accept to receive emails informing about future ITASA activities.</label>
+            </div>-->
+            <button type="submit" class="btn btn-primary" style="margin-top: 10px"><%=translation.REGISTER_BUTTON%></button>
+        </form>
+    </div>
+</section>

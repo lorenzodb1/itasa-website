@@ -1,0 +1,88 @@
+{
+  "CURRENT_LANGUAGE": "it",
+  "OTHER_LANGUAGE": "en",
+
+  "HEADER_TITLE": "Associazione Studentesca Italiana della UBC",
+  "HEADER_AUTHOR": "Associazione Studentesca Italiana dell'AMS",
+  "HEADER_DECRIPTION": "In rappresentanza degli studenti, la cultura e la storia italiana all'Università della Columbia Britannica a Vancouver.",
+
+  "MENU_ITEM_1": "Chi siamo",
+  "MENU_ITEM_2": "La nostra storia",
+  "MENU_ITEM_3": "I nostri executives",
+  "MENU_ITEM_4": "I nostri alumni",
+  "MENU_ITEM_5": "I nostri partner",
+  "MENU_ITEM_6": "Contattaci",
+
+  "WELCOME_MESSAGE": "Benvenuto in Italia.",
+
+  "MAILING_LIST_BUTTON": "Registrati alla nostra mailing list",
+
+  "SECTION_1_TITLE": "Chi siamo",
+  "SECTION_1_TEXT": "L'Associazione Studentesca Italiana è un'organizzazione no-profit operata da studenti volta a rappresentare la comunità italiana all'Università della Columbia Britannica. Il nostro scopo è di promuovere la cultura, la storia e le tradizioni italiane all'interno della nostra comunità universitaria e di fornire supporto a qualunque studente, indipendentemente dal proprio bagaglio.",
+  "SECTION_1_SUBSECTION_1_TITLE": "Network",
+  "SECTION_1_SUBSECTION_1_TEXT": "ITASA UBC non è solo un'associazione studentesca, ma una famiglia. Il nostro è <em>network</em> di studenti, istituzioni e aziende a cui potrai fare riferimento per il tuo futuro.",
+  "SECTION_1_SUBSECTION_2_TITLE": "Apprendimento",
+  "SECTION_1_SUBSECTION_2_TEXT": "Garantiamo un supporto gratuito per gli studenti che stanno imparando la nostra lingua e cultura, sia attraverso il Dipartimento di Studi Francesi, Ispanici e Italiani della UBC che per proprio conto.",
+  "SECTION_1_SUBSECTION_3_TITLE": "Cultura",
+  "SECTION_1_SUBSECTION_3_TEXT": "Organizziamo gli eventi più unici ed esclusivi del campus per fornire un'esperienza italiana completa, una che difficilmente scorderai. Per noi, la bella vita non è solo un'espressione, ma una mentalità.",
+
+  "SECTION_2_TITLE": "La nostra storia",
+  "SECTION_2_INTRO_QUOTE_TEXT": "\"Era su un treno diretto a Monaco nell'estate del loro secondo anno alla UBC quando Lorenzo De Bernardini e Anna Lazzereschi hanno iniziato a parlare della possibilità di fondare un club per gli studenti italiani.\"",
+  "SECTION_2_INTRO_QUOTE_AUTHOR": "(Riya Talitha, Ubyssey)",
+  "SECTION_2_INTRO_TEXT": "È stato un lungo viaggio per arrivare a ciò che siamo ora. Quindi, per celebrare il nostro lavoro, ecco un riassunto di alcuni dei nostri traguardi più importanti che ci rendono orgogliosi di ciò che facciamo.",
+  "SECTION_2_EVENT_1_DATE": "7 agosto 2017",
+  "SECTION_2_EVENT_1_TEXT": "Il giorno in cui tutto è iniziato. In attesa di arrivare a destinazione, Lorenzo e Anna iniziano a discutere di quanto sia difficile trovare italiani nel campus e quanto poco siano rappresentati nella comunità. Ecco come si sono resi conto che la UBC aveva bisogno di una Associazione Studentesca Italiana, una che mostrasse a tutti cosa si prova ad essere italiani.",
+  "SECTION_2_EVENT_2_DATE": "13 novembre 2017",
+  "SECTION_2_EVENT_2_TEXT": "L'assemblea costituente. Davanti a un piatto di penne all'amatriciana, sette studenti italiani s'incontrano a Marine Drive per la prima Assemblea Generale Annuale in assoluto, dove statuto e ruoli sono stati decisi.",
+  "SECTION_2_EVENT_3_DATE": "26 febbraio 2018",
+  "SECTION_2_EVENT_3_TEXT": "Il primo approccio alla comunità. Dopo aver incontrato il Direttore culturale de Il Centro - Centro Culturale Italiano, Dott. Giulio Recchioni, il Presidente Lorenzo e il Vice-Presidente - Affari esterni Giacomo incontrano l'Attaché culturale del Consolato Generale d'Italia a Vancouver, Dott. Gianluca Biscardi. Questo è stato il giorno in cui un canale si è aperto tra noi e il resto della comunità italiana nella città.",
+  "SECTION_2_EVENT_4_DATE": "22 marzo 2018",
+  "SECTION_2_EVENT_4_TEXT": "Il coming-out. ITASA, in collaborazione con la Associazione Studentesca Francofona della UBC, organizza il primo evento: una degustazione di vini e formaggi con prodotti importati da Italia e Francia, il quale ha fatto il tutto esaurito.",
+  "SECTION_2_EVENT_5_DATE": "16 novembre 2018",
+  "SECTION_2_EVENT_5_TEXT": "Il primo grande passo. ITASA ottiene la sua prima sponsorizzazione dal Gruppo Campari, una multinazionale italiana nel settore delle bevande alcoliche e non, per organizzare un evento che abbia come protagonista il famoso Aperol Spritz. È stato anche il primo evento da soli e nonostante, è andato tutto esaurito.",
+
+  "SECTION_3_TITLE": "I nostri executives",
+  "SECTION_3_SUBTITLE": "coloro che rendono il tutto possibile",
+
+  "SECTION_4_TITLE": "I nostri alumni",
+  "SECTION_4_SUBTITLE": "orgoglio italiano nel mondo",
+  "SECTION_4_CLASS": "Classe",
+
+  "ROLE_PRESIDENT": "Presidente",
+  "ROLE_FOUNDER": "Founder",
+  "ROLE_VICE_PRESIDENT": "Vice-Presidente",
+  "ROLE_EXECUTIVE": "Esecutivo",
+  "ROLE_FORMER": "Ex",
+
+  "FIELD_FINANCIAL": "Finanze",
+  "FIELD_OUTREACH": "Outreach",
+  "FIELD_INTERNAL": "Affari interni",
+  "FIELD_LOGISTICS": "Logistica",
+  "FIELD_MARKETING": "Marketing",
+
+  "SECTION_5_TITLE": "I nostri partner",
+  "SECTION_5_SUBTITLE": "una comunità che non ringrazieremo mai abbastanza",
+
+  "SECTION_6_TITLE": "Contattaci!",
+
+  "COPYRIGHT": "© Tutti i diritti riservati  /  Da ITASA UBC con ❤️",
+
+  "REGISTER_TITLE": "Registrati alla nostra mailing list",
+  "REGISTER_FIELD1": "Nome",
+  "REGISTER_FIELD2": "Cognome",
+  "REGISTER_FIELD3": "Email",
+  "REGISTER_FIELD3_SUB": "Non condivideremo mai il tuo indirizzo email con nessuno.",
+  "REGISTER_FIELD4": "Facoltà",
+  "REGISTER_FIELD5": "Anno",
+  "REGISTER_BUTTON": "Registrati",
+
+  "REGISTER_SUCCESS_TITLE": "Grazie!",
+  "REGISTER_SUCCESS_SUBTITLE": "Faremo in modo di tenerti aggiornato con tutti i nostri ultimi aggiornamenti sulle nostre attività ed eventi.",
+  "REGISTER_SUCCESS_CONTACT_US": "Vuoi rimuoverti dalla lista? <a href=\"mailto:itasaubc@gmail.com\">Contattaci</a>.",
+  "REGISTER_SUCCESS_REDIRECT": "Sarai ridiretto alla nostra homepage tra 5 secondi.",
+
+  "REGISTER_ERROR_TITLE": "Qualcosa è andato storto!",
+  "REGISTER_ERROR_SUBTITLE": "Prova di nuovo tra qualche minuto.",
+  "REGISTER_ERROR_CONTACT_US": "Continui ad avere problemi?, <a href=\"mailto:itasaubc@gmail.com\">Contattaci</a>.",
+  "REGISTER_ERROR_REDIRECT": "Darai ridiretto alla pagina precedente tra 5 secondi."
+}
