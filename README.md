@@ -4,11 +4,11 @@
 
 #### The official website of the AMS Italian Student Association
 
-#####To run the website on a local environment:
+##### To run the website on a local environment:
 
 - Clone the repository
 - Run `npm install`
 - Run `npm start`
 - Open on your browser `http://localhost:3000/`
 
-#####_Developed with_ ❤️ _by the executive team of the AMS Italian Student Association_
+###### _Developed with_ ❤️ _by the executive team of the AMS Italian Student Association_
